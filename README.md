@@ -14,9 +14,11 @@
 
 ###
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheusfranca10&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_rank=false)
+<div style="display: flex; justify-content: center;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusfranca10&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_rank=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusfranca10&layout=compact&langs_count=16&theme=dracula"/>
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusfranca10&layout=compact&langs_count=16&theme=dracula)
 
 
 
