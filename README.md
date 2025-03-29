@@ -16,7 +16,7 @@
 
 <div>
   <a href="https://github.com/matheusfranca10">
-    <img alt="Matheus's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=matheusfranca10&show_icons=true&theme=dracula"/>
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusfranca10&show_icons=true&theme=dracula)
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusfranca10&layout=compact&langs_count=16&theme=dracula"/>
   </a>
 </div>
